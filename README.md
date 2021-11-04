@@ -1,1 +1,1 @@
-# this is Cydia substrate source code
+# This is cydia substrate source code
